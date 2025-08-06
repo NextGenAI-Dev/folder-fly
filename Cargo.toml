@@ -1,0 +1,2 @@
+[workspace]
+members = [ "client_ui","common", "daemon"]
